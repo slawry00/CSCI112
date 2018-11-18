@@ -26,6 +26,7 @@ int main()
       printf("The plural is: %s\n", word);
       scanf("%s", word);
    }
+   return 0;
 
 }
 

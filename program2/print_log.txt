@@ -1,0 +1,49 @@
+
+Welcome to the class sorting menu. Type !quit at any time to exit
+These are your options:
+1) Type '1' to print all classes by CSCI number
+2) Type 'MWF' or 'TR' to print classes available MWF or TR respectively
+3) Type a specific day/time combination such as 'MWF 0900' or 'TR 1100 to search
+   and print classes available at that day/time combination
+4) Type a college year ('freshman', 'sophomore', 'junior' or 'senior' to search
+   and print classes available to that college year
+
+Joy and Beauty of Computing                        CSCI107 Available to: Freshmen    MWF 1000-1050
+Programming in C                                   CSCI112 Available to: Sophomores  MWF 0900-0950
+Joy and Beauty of Data                             CSCI127 Available to: Freshmen    MWF 1200-1250
+Intro to Data Structures                           CSCI132 Available to: Freshmen    TR  1100-1150
+Social and Ethical Issues in Computer Science      CSCI215 Available to: Sophomores  TR  1300-1350
+Data Structures and Algorithms                     CSCI232 Available to: Sophomores  MWF 1100-1150
+Discrete Structures                                CSCI246 Available to: Sophomores  MWF 1300-1350
+Programming Languages                              CSCI305 Available to: Juniors     TR  1200-1250
+Computational Theory                               CSCI338 Available to: Juniors     TR  1000-1050
+System Administration                              CSCI351 Available to: Juniors     TR  1500-1550
+Robot Vision                                       CSCI442 Available to: Seniors     MWF 1500-1550
+Artificial Intelligence                            CSCI446 Available to: Seniors     TR  0900-0950
+Machine Learning                                   CSCI447 Available to: Seniors     MWF 1400-1450
+Compilers                                          CSCI468 Available to: Seniors     TR  1400-1450
+
+Programming in C                                   CSCI112 Available to: Sophomores  MWF 0900-0950
+Joy and Beauty of Computing                        CSCI107 Available to: Freshmen    MWF 1000-1050
+Data Structures and Algorithms                     CSCI232 Available to: Sophomores  MWF 1100-1150
+Joy and Beauty of Data                             CSCI127 Available to: Freshmen    MWF 1200-1250
+Discrete Structures                                CSCI246 Available to: Sophomores  MWF 1300-1350
+Machine Learning                                   CSCI447 Available to: Seniors     MWF 1400-1450
+Robot Vision                                       CSCI442 Available to: Seniors     MWF 1500-1550
+
+Artificial Intelligence                            CSCI446 Available to: Seniors     TR  0900-0950
+Computational Theory                               CSCI338 Available to: Juniors     TR  1000-1050
+Intro to Data Structures                           CSCI132 Available to: Freshmen    TR  1100-1150
+Programming Languages                              CSCI305 Available to: Juniors     TR  1200-1250
+Social and Ethical Issues in Computer Science      CSCI215 Available to: Sophomores  TR  1300-1350
+Compilers                                          CSCI468 Available to: Seniors     TR  1400-1450
+System Administration                              CSCI351 Available to: Juniors     TR  1500-1550
+
+Programming in C                                   CSCI112 Available to: Sophomores  MWF 0900-0950
+
+Intro to Data Structures                           CSCI132 Available to: Freshmen    TR  1100-1150
+
+Joy and Beauty of Computing                        CSCI107 Available to: Freshmen    MWF 1000-1050
+Joy and Beauty of Data                             CSCI127 Available to: Freshmen    MWF 1200-1250
+Intro to Data Structures                           CSCI132 Available to: Freshmen    TR  1100-1150
+
